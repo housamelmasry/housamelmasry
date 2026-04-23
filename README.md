@@ -116,8 +116,9 @@ I work across the full stack — from **database schema design** to **REST API a
 
 **Live links:**
 - 🔗 [sour-cms.online](https://sour-cms.online) — Admin CMS
-- 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.sourdough.sourdoughapp) — Mobile App
-- 🔗 [sourdough.house](https://www.sourdough.house) — E-commerce
+- 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.sourdough.sourdoughapp) — Android App
+- 🍎 [App Store](https://apps.apple.com/eg/app/sourdough-house/id6756028598?l=ar) — iOS App
+- 🛒 [sourdough.house](https://www.sourdough.house/) — E-commerce
 - 📲 POS Tablet App — APK on request
 
 </td>
@@ -157,7 +158,7 @@ I work across the full stack — from **database schema design** to **REST API a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=housamelmasry&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=housamelmasry&bg_color=1a1b27&color=2563EB&line=2563EB&point=ffffff&hide_border=true&area=true" />
 
 </div>
 
