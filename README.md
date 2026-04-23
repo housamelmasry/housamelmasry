@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-> Self-taught developer with **4+ years** of professional experience delivering **complete, live production systems** for real clients — not tutorials or demos.
+> Self-taught developer with **4+ years** of professional experience delivering **complete, live production systems** for real clients.
 
 I work across the full stack — from **database schema design** to **REST API architecture** to **mobile app UI** — and I've shipped all of it independently into production.
 
