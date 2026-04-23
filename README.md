@@ -1,107 +1,182 @@
-# 👋 Hi, I'm Housam Elmasry  
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+%7C+Filament+%7C+React+Native;Building+Real+Production+Systems;Frontend+Focused+Developer&center=true&width=500&height=45">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Housam%20Elmasry&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20React%20Native%20CLI&descAlignY=58&descColor=ffffff" />
 
----
+<br/>
 
-## 🚀 About Me  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+%7C+Filament+%7C+REST+APIs;React+Native+CLI+%7C+iOS+%26+Android;Building+Real+Production+Systems;4%2B+Years+of+Real+Client+Work&center=true&width=500&height=50&color=2563EB&size=18&pause=1000)](https://github.com/housamelmasry)
 
-💻 Full Stack Developer with 4+ years of experience building **real production systems**  
+<br/>
 
-⚙️ Specialized in:
-- Laravel (Filament, REST APIs, RBAC)
-- React Native CLI (Mobile Apps)
-- Full system architecture (CMS + POS + Mobile + Web)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-housamelmasry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/housamelmasry)
+[![GitHub](https://img.shields.io/badge/GitHub-housamelmasry-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/housamelmasry)
+[![Email](https://img.shields.io/badge/Email-housamelmasry1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:housamelmasry1@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Alexandria-Egypt-1DA462?style=for-the-badge)](https://github.com/housamelmasry)
 
-🎯 Currently focusing on:
-- Frontend Development (React / Vue)
-- UI/UX & scalable frontend systems  
+</div>
 
 ---
 
-## 🛠 Tech Stack  
+## 👨‍💻 About Me
 
-### 🔹 Backend  
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+> Self-taught developer with **4+ years** of professional experience delivering **complete, live production systems** for real clients — not tutorials or demos.
 
-### 🔹 Frontend  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+I work across the full stack — from **database schema design** to **REST API architecture** to **mobile app UI** — and I've shipped all of it independently into production.
 
-### 🔹 Mobile  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple)
-
-### 🔹 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+- 🔧 **Backend specialist:** Laravel, Filament, MySQL, Spatie RBAC
+- 📱 **Mobile:** React Native CLI with custom native modules for iOS & Android
+- 🖥️ **Admin panels:** Filament dashboards, multi-role systems, analytics
+- 🚀 **Currently building:** Production mobile app at Sabiq + POS tablet system
+- 🎯 **Focusing on:** Frontend (React / Vue), UI/UX & scalable frontend systems
+- 🧠 **I care about real workflows** — appointments → patient records → billing → reporting
 
 ---
 
-## 💼 Experience  
+## 🛠️ Tech Stack
 
-### 📱 Mobile Developer — Sabiq  
-- Built production React Native app  
-- Developed custom native STT modules (iOS & Android)  
-- Integrated APIs with real-time data  
+### 🔹 Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Spatie](https://img.shields.io/badge/Spatie_RBAC-EF3B2D?style=for-the-badge)
 
----
+### 🔹 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Blade](https://img.shields.io/badge/Blade_Templates-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### ⚙️ Full Stack Developer — Freelance  
-- Built CMS, POS, and ERP-like systems  
-- Designed REST APIs with JWT + RBAC  
-- Developed Filament dashboards & UI systems  
+### 🔹 Mobile
+![React Native](https://img.shields.io/badge/React_Native_CLI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS_Native_(Swift)-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Native_(Kotlin)-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
-
-## 🧩 Featured Project  
-
-### 🥖 Sourdough Ecosystem  
-> Complete multi-platform production system  
-
-- 📱 Mobile App (React Native)  
-- 💳 POS Tablet App  
-- 🖥 Laravel Filament CMS  
-- 🛒 E-commerce Website  
-
-🔗 https://sour-cms.online  
-🔗 https://sourdough.house  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=housamelmasry&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=housamelmasry&theme=tokyonight" />
-</p>
+### 🔹 Tools & Integrations
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📈 Most Used Languages  
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=housamelmasry&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/housamelmasry)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/housamelmasry)
+### 📱 Mobile Application Developer — Sabiq *(Oct 2025 – Present)*
+- Building a production mobile app using **React Native CLI** with full native module access
+- Developed custom **STT native modules** for iOS (Swift / AVFoundation) and Android (Kotlin / SpeechRecognizer), bridged to JS via NativeModules
+- Handled real-world audio edge cases: session interruptions, noise filtering, mic permission management
+- Integrated REST APIs for real-time data sync between mobile UI and backend
 
 ---
 
-⭐ *Open to remote opportunities — Frontend / Fullstack roles*
+### ⚙️ PHP Laravel Backend Developer — Freelance *(Feb 2022 – Present)*
+- Designed and built production Laravel systems: e-commerce CMS, POS, ERP-like management platforms
+- Built REST APIs with **JWT auth** and **Spatie RBAC**, consumed by React Native mobile and tablet apps
+- Delivered **Filament admin panels** with analytics dashboards, multi-role resource management, and reporting
+- Optimized MySQL queries and Eloquent ORM; designed scalable multi-branch database schemas
+- Implemented event-driven billing: auto-invoice creation on order completion via Laravel Events & Listeners
+
+---
+
+### 🌐 WordPress Developer — Freelance *(Jun 2020 – Feb 2023)*
+- Built e-commerce storefronts for startups using WordPress and WooCommerce
+
+---
+
+## 🧩 Featured Project
+
+### 🥖 Sourdough — Complete Multi-Platform Ecosystem
+
+> A fully live production system serving **real customers in Alexandria, Egypt**.
+> Designed and built **entirely solo** — from database schema to app store.
+
+<table>
+<tr>
+<td width="50%">
+
+**What I built:**
+- 🖥️ **Laravel / Filament CMS** — 3 panels: Admin, Delivery, Branch
+- 🔌 **REST API layer** — JWT + RBAC (admin / branch / staff / cashier)
+- ⚡ **Event-driven billing** — auto-invoice on order completion
+- 📦 **Multi-branch inventory** with recipe-based cost engine
+- 🧾 **POS Tablet App** — cashier & waiter roles, PIN auth, full order lifecycle
+
+</td>
+<td width="50%">
+
+**Stack:**
+`Laravel` `Filament` `MySQL` `Spatie`
+`React Native CLI` `WordPress` `REST API`
+
+**Live links:**
+- 🔗 [sour-cms.online](https://sour-cms.online) — Admin CMS
+- 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.sourdough.sourdoughapp) — Mobile App
+- 🔗 [sourdough.house](https://www.sourdough.house) — E-commerce
+- 📲 POS Tablet App — APK on request
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Other Projects
+
+| Project | Type | Stack | Repo |
+|---------|------|-------|------|
+| **Creative Generation L.L.C** | Business Management (CRM/ERP) | Laravel · Filament · Spatie · MySQL | Private — access on request |
+| **Qinawi Construction** | Project Management | Laravel · Filament · MySQL | Private — access on request |
+| **Sabiq Mobile App** | Production Mobile App | React Native CLI · Swift · Kotlin | Private — access on request |
+
+> 📌 **Note:** Most of my real client work is in private repos due to client confidentiality.
+> I'm happy to grant **temporary collaborator access** to any project for review — just reach out.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=housamelmasry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=housamelmasry&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=housamelmasry&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=housamelmasry&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/housamelmasry)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/housamelmasry)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:housamelmasry1@gmail.com)
+
+<br/>
+
+⭐ **Open to remote opportunities — Full Stack / Backend / Frontend roles**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" />
+
+</div>
