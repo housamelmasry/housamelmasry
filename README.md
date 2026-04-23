@@ -67,14 +67,6 @@ I work across the full stack — from **database schema design** to **REST API a
 
 ## 💼 Experience
 
-### 📱 Mobile Application Developer — Sabiq *(Oct 2025 – Present)*
-- Building a production mobile app using **React Native CLI** with full native module access
-- Developed custom **STT native modules** for iOS (Swift / AVFoundation) and Android (Kotlin / SpeechRecognizer), bridged to JS via NativeModules
-- Handled real-world audio edge cases: session interruptions, noise filtering, mic permission management
-- Integrated REST APIs for real-time data sync between mobile UI and backend
-
----
-
 ### ⚙️ PHP Laravel Backend Developer — Freelance *(Feb 2022 – Present)*
 - Designed and built production Laravel systems: e-commerce CMS, POS, ERP-like management platforms
 - Built REST APIs with **JWT auth** and **Spatie RBAC**, consumed by React Native mobile and tablet apps
@@ -127,18 +119,6 @@ I work across the full stack — from **database schema design** to **REST API a
 
 ---
 
-### 💼 Other Projects
-
-| Project | Type | Stack | Repo |
-|---------|------|-------|------|
-| **Creative Generation L.L.C** | Business Management (CRM/ERP) | Laravel · Filament · Spatie · MySQL | Private — access on request |
-| **Qinawi Construction** | Project Management | Laravel · Filament · MySQL | Private — access on request |
-| **Sabiq Mobile App** | Production Mobile App | React Native CLI · Swift · Kotlin | Private — access on request |
-
-> 📌 **Note:** Most of my real client work is in private repos due to client confidentiality.
-> I'm happy to grant **temporary collaborator access** to any project for review — just reach out.
-
----
 
 ## 📊 GitHub Stats
 
