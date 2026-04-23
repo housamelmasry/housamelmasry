@@ -65,22 +65,6 @@ I work across the full stack — from **database schema design** to **REST API a
 
 ---
 
-## 💼 Experience
-
-### ⚙️ PHP Laravel Backend Developer — Freelance *(Feb 2022 – Present)*
-- Designed and built production Laravel systems: e-commerce CMS, POS, ERP-like management platforms
-- Built REST APIs with **JWT auth** and **Spatie RBAC**, consumed by React Native mobile and tablet apps
-- Delivered **Filament admin panels** with analytics dashboards, multi-role resource management, and reporting
-- Optimized MySQL queries and Eloquent ORM; designed scalable multi-branch database schemas
-- Implemented event-driven billing: auto-invoice creation on order completion via Laravel Events & Listeners
-
----
-
-### 🌐 WordPress Developer — Freelance *(Jun 2020 – Feb 2023)*
-- Built e-commerce storefronts for startups using WordPress and WooCommerce
-
----
-
 ## 🧩 Featured Project
 
 ### 🥖 Sourdough — Complete Multi-Platform Ecosystem
