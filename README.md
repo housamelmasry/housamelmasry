@@ -141,6 +141,13 @@ What sets me apart:
 
 <div align="center">
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=housamelmasry&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=housamelmasry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=housamelmasry&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
